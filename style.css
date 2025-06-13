@@ -1,4 +1,7 @@
-/* Base Styles */
+.text {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
 :root {
     --primary: #2c3e50;
     --bg-light: #ffffff;
