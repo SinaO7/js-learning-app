@@ -1,3 +1,5 @@
+console.log("products by Sina")
+
 document.addEventListener('DOMContentLoaded', () => {
     // Theme Toggle
     const themeToggle = document.getElementById('theme-toggle');
